@@ -1,0 +1,12 @@
+name: covid_shiny_capstone
+title: covid_shiny_capstone
+username:
+account: feliciahaliman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3941161
+bundleId: 4455036
+url: https://feliciahaliman.shinyapps.io/covid_shiny_capstone/
+when: 1618074763.70289
+asMultiple: FALSE
+asStatic: FALSE

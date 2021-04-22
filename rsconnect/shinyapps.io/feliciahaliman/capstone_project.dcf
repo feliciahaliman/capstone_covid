@@ -1,0 +1,13 @@
+name: capstone_project
+title: capstone_project
+username:
+account: feliciahaliman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3942969
+bundleId: 4503971
+url: https://feliciahaliman.shinyapps.io/capstone_project/
+when: 1619081375.65606
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Data/average-latitude-longitude-countries.csv|Data/Current-Vaccine-Intro-Status(view-hub.org).csv|Data/daily-covid-vaccination-doses-per-capita.csv|Data/WHO COVID-19 global table data April 10th 2021 at 1.17.05 PM.csv
